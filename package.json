@@ -1,0 +1,29 @@
+{
+  "name": "hvk3ls0heei1swqhfvfp2a_1fd677102d0711e8a11f3f5f282cfd8b_aboutus.html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9",
+    "bootstrap": "^4.0.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChamodiDH/PizzaShop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChamodiDH/PizzaShop/issues"
+  },
+  "homepage": "https://github.com/ChamodiDH/PizzaShop#readme"
+}
